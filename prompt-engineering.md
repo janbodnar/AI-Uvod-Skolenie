@@ -1,4 +1,3 @@
-```
 # Prompt Engineering – Umenie klásť správne otázky  
 
 *Učebný materiál pre učiteľov a študentov · aktualizovaná verzia  
