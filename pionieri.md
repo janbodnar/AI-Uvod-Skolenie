@@ -1,12 +1,10 @@
-# Pionieri umelej inteligencie: Od teoretických základov po  
-generatívnu AI  
+# Pionieri umelej inteligencie
 
 Umelá inteligencia (AI) prešla od svojich počiatkov v stredoveku  
 a 20. storočí fascinujúcim vývojom. Tento dokument mapuje kľúčové  
 osobnosti a míľniky, ktoré formovali AI od jej teoretických  
 predchodcov až po dnešnú éru generatívnych modelov.  
 
----
 
 ## 1. Prapredkovia a teoretické základy (pred rokom 1950)  
 
