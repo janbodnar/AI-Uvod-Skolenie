@@ -1,4 +1,4 @@
-# Low-code, no-code a vibe coding: úvod pre začiatočníkov  
+# Low-code, no-code a vibe coding
 
 ## 1. Prečo o tom hovoríme  
 
