@@ -1,4 +1,4 @@
-# Kapitola: AGENTS.md – návod na obsluhu projektu pre AI agenta
+# AGENTS.md – návod na obsluhu projektu pre AI agenta
 
 ## 1. Prečo to vôbec potrebujeme
 
