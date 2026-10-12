@@ -40,6 +40,10 @@ Ich princíp možno rozdeliť do štyroch krokov:
 | **Parameter** | Interná premenná učená počas tréningu. Modely ich majú milióny až bilióny. |  
 | **Kontextové okno** | Maximálne množstvo vstupu a výstupu, ktoré model spracuje naraz. |  
 | **Halucinácia** | Presvedčivo znejúci, no fakticky nesprávny alebo vymyslený obsah. |  
+
+## 
+
+https://models.dev/
   
 ## Klasifikácia jazykových modelov  
   
