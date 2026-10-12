@@ -116,6 +116,9 @@ ceny si overte na stránke huggingface.co/pricing.
 
 ## 11. Užitočné odkazy  
 
+- https://huggingface.co/spaces/LiquidAI/system-one-arcade
+- https://huggingface.co/spaces/ACE-Step/ACE-Step
+
 - huggingface.co: hlavná stránka a Hub  
 - huggingface.co/models: katalóg modelov  
 - huggingface.co/datasets: katalóg datasetov  
