@@ -1,4 +1,4 @@
-# Dáta na trénovanie AI modelov: odkiaľ sa berú a aké sú s nimi problémy  
+# Dáta na trénovanie AI modelov
 
 ## 1. Prečo sú dáta kľúčové  
 
