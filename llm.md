@@ -88,13 +88,13 @@ Tieto modely používajú dodatočný výpočtový čas na plánovanie, kontrolu
 rozklad úlohy na podúlohy. Zvyčajne sú lepšie v matematike, programovaní,  
 vedeckom uvažovaní a viacstupňových úlohách, ale bývajú pomalšie a drahšie.  
   
-Príklady sú GPT-6 Astra, GPT-5.6 Sol, Claude Fable 5.1 a Gemini 3.1 Pro.  
+Príklady sú GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5.1 a Gemini 3.1 Pro.  
   
 Používateľ nemusí od modelu vyžadovať zverejnenie interného chain-of-thought.  
 Na kontrolu kvality je vhodnejšie žiadať stručné zdôvodnenie, overiteľné  
 medzikroky alebo výsledky testov.  
   
-## Prehľad významných modelov (stav k 9. septembru 2026)  
+## Prehľad významných modelov (stav k 12. októbru 2026)  
   
 Nasledujúci prehľad uvádza aktuálne alebo významné modely. Označenie  
 „preview“ znamená, že model sa môže meniť a nemusí mať stabilný životný  
@@ -103,20 +103,22 @@ cyklus.
 | Model | Vývojár / organizácia | Krajina pôvodu | Typ prístupu |  
 | :--- | :--- | :--- | :--- |  
 | **GPT-6 Astra** | OpenAI | USA | Closed |  
-| **GPT-5.6 Sol / Terra / Luna** | OpenAI | USA | Closed |  
+| **GPT-6.1 Sol / GPT-6 Luna** | OpenAI | USA | Closed |  
 | **Claude Fable 5.1** | Anthropic | USA | Closed |  
-| **Claude Opus 5 / Sonnet 5** | Anthropic | USA | Closed |  
-| **Claude Haiku 4.5** | Anthropic | USA | Closed |  
+| **Claude Opus 5.5 / Sonnet 5.5** | Anthropic | USA | Closed |  
+| **Claude Haiku 5.5** | Anthropic | USA | Closed |  
 | **Gemini 3.8 Flash** | Google DeepMind | USA | Closed |  
 | **Gemini 3.1 Pro** | Google DeepMind | USA | Closed, preview |  
-| **Grok 4.x** | xAI | USA | Closed |  
+| **Grok 4.7** | xAI | USA | Closed |  
+| **Muse Spark 1.3** | Meta | USA | Closed |  
+| **Muse Glimmer 30B** | Meta | USA | Open weights |  
 | **Llama 4 (Scout / Maverick)** | Meta | USA | Open weights |  
-| **Mistral Large 3** | Mistral AI | Francúzsko | Open weights |  
+| **Mistral Large 4** | Mistral AI | Francúzsko | API, preview; open weights sa pripravujú |  
 | **Mistral Medium 3.5 / Small 4** | Mistral AI | Francúzsko | API / open weights |  
-| **Qwen 3** | Alibaba Cloud | Čína | Open weights / API |  
+| **Qwen 3.8** | Alibaba Cloud | Čína | Open weights / API |  
 | **DeepSeek-V4 Flash / Pro** | DeepSeek | Čína | API; dostupné varianty váh |  
-| **GLM-5** | Z.ai | Čína | Open weights / API |  
-| **Kimi K2** | Moonshot AI | Čína | Open weights / API |  
+| **GLM-5.3** | Z.ai | Čína | Open weights / API |  
+| **Kimi K3** | Moonshot AI | Čína | Open weights / API |  
   
 Názvy a dostupnosť modelov sa menia rýchlejšie než učebnicové texty. Pri  
 integrácii preto treba overiť aktuálny model ID, dokumentáciu, licenciu,  
@@ -212,4 +214,4 @@ Vývoj sa uberá tromi hlavnými smermi:
 Pri zložitých úlohách má význam vybrať model alebo režim reasoning, ktorý  
 venuje problému viac výpočtového času. Samotný názov modelu však nie je  
 zárukou správnosti. Výsledok treba posudzovať podľa testov, zdrojov,  
-overiteľných krokov a konkrétneho použitia.  
+overiteľných krokov a konkrétneho použitia.
