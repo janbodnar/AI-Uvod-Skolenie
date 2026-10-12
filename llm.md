@@ -40,10 +40,6 @@ Ich princíp možno rozdeliť do štyroch krokov:
 | **Parameter** | Interná premenná učená počas tréningu. Modely ich majú milióny až bilióny. |  
 | **Kontextové okno** | Maximálne množstvo vstupu a výstupu, ktoré model spracuje naraz. |  
 | **Halucinácia** | Presvedčivo znejúci, no fakticky nesprávny alebo vymyslený obsah. |  
-
-## 
-
-https://models.dev/
   
 ## Klasifikácia jazykových modelov  
   
@@ -92,13 +88,13 @@ Tieto modely používajú dodatočný výpočtový čas na plánovanie, kontrolu
 rozklad úlohy na podúlohy. Zvyčajne sú lepšie v matematike, programovaní,  
 vedeckom uvažovaní a viacstupňových úlohách, ale bývajú pomalšie a drahšie.  
   
-Príklady sú GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5.1 a Gemini 3.1 Pro.  
+Príklady sú GPT-6 Astra, GPT-5.6 Sol, Claude Fable 5.1 a Gemini 3.1 Pro.  
   
 Používateľ nemusí od modelu vyžadovať zverejnenie interného chain-of-thought.  
 Na kontrolu kvality je vhodnejšie žiadať stručné zdôvodnenie, overiteľné  
 medzikroky alebo výsledky testov.  
   
-## Prehľad významných modelov (stav k 12. októbru 2026)  
+## Prehľad významných modelov (stav k 9. septembru 2026)  
   
 Nasledujúci prehľad uvádza aktuálne alebo významné modely. Označenie  
 „preview“ znamená, že model sa môže meniť a nemusí mať stabilný životný  
@@ -107,26 +103,51 @@ cyklus.
 | Model | Vývojár / organizácia | Krajina pôvodu | Typ prístupu |  
 | :--- | :--- | :--- | :--- |  
 | **GPT-6 Astra** | OpenAI | USA | Closed |  
-| **GPT-6.1 Sol / GPT-6 Luna** | OpenAI | USA | Closed |  
+| **GPT-5.6 Sol / Terra / Luna** | OpenAI | USA | Closed |  
 | **Claude Fable 5.1** | Anthropic | USA | Closed |  
-| **Claude Opus 5.5 / Sonnet 5.5** | Anthropic | USA | Closed |  
-| **Claude Haiku 5.5** | Anthropic | USA | Closed |  
+| **Claude Opus 5 / Sonnet 5** | Anthropic | USA | Closed |  
+| **Claude Haiku 4.5** | Anthropic | USA | Closed |  
 | **Gemini 3.8 Flash** | Google DeepMind | USA | Closed |  
 | **Gemini 3.1 Pro** | Google DeepMind | USA | Closed, preview |  
-| **Grok 4.7** | xAI | USA | Closed |  
-| **Muse Spark 1.3** | Meta | USA | Closed |  
-| **Muse Glimmer 30B** | Meta | USA | Open weights |  
+| **Grok 4.x** | xAI | USA | Closed |  
 | **Llama 4 (Scout / Maverick)** | Meta | USA | Open weights |  
-| **Mistral Large 4** | Mistral AI | Francúzsko | API, preview; open weights sa pripravujú |  
+| **Mistral Large 3** | Mistral AI | Francúzsko | Open weights |  
 | **Mistral Medium 3.5 / Small 4** | Mistral AI | Francúzsko | API / open weights |  
-| **Qwen 3.8** | Alibaba Cloud | Čína | Open weights / API |  
+| **Qwen 3** | Alibaba Cloud | Čína | Open weights / API |  
 | **DeepSeek-V4 Flash / Pro** | DeepSeek | Čína | API; dostupné varianty váh |  
-| **GLM-5.3** | Z.ai | Čína | Open weights / API |  
-| **Kimi K3** | Moonshot AI | Čína | Open weights / API |  
+| **GLM-5** | Z.ai | Čína | Open weights / API |  
+| **Kimi K2** | Moonshot AI | Čína | Open weights / API |  
   
 Názvy a dostupnosť modelov sa menia rýchlejšie než učebnicové texty. Pri  
 integrácii preto treba overiť aktuálny model ID, dokumentáciu, licenciu,  
 cenu, kontextové okno a plánované vyradenie z prevádzky.  
+  
+## Models.dev: otvorená databáza modelov  
+  
+[Models.dev](https://models.dev) je otvorená databáza umelej inteligencie  
+s prehľadom modelov, laboratórií a poskytovateľov. Zdrojový kód je dostupný  
+na GitHube (projekt sst/models.dev).  
+  
+Každý model má na stránke vlastný záznam s týmito údajmi:  
+  
+* **Lab** a **Providers:** kto model vyvinul a koľko poskytovateľov ho  
+  ponúka;  
+* **Context / Output / Input:** veľkosť kontextového okna a maximálna dĺžka  
+  výstupu v tokenoch;  
+* **Reasoning, Tool Call, Structured, Temperature:** podpora uvažovania,  
+  volania nástrojov, štruktúrovaného výstupu a nastavenia teploty;  
+* **Weights:** či sú váhy modelu verejne dostupné (*Open*), alebo nie  
+  (*Closed*);  
+* **Price:** cena za milión vstupných a výstupných tokenov;  
+* **Release / Updated:** dátum vydania a poslednej aktualizácie záznamu.  
+  
+Stránku možno filtrovať a vyhľadávať podľa názvu modelu, laboratória alebo  
+poskytovateľa. Je užitočná na porovnanie kontextových okien, cien a  
+funkcií pred výberom modelu pre konkrétne použitie.  
+  
+Údaje na stránke sa menia často a nemusia byť úplné, najmä pri novších  
+modeloch a preview verziách. Pri rozhodovaní o nasadení treba overiť  
+aktuálne hodnoty u konkrétneho poskytovateľa.  
   
 ## Najčastejšie označenia modelov  
   
@@ -218,4 +239,4 @@ Vývoj sa uberá tromi hlavnými smermi:
 Pri zložitých úlohách má význam vybrať model alebo režim reasoning, ktorý  
 venuje problému viac výpočtového času. Samotný názov modelu však nie je  
 zárukou správnosti. Výsledok treba posudzovať podľa testov, zdrojov,  
-overiteľných krokov a konkrétneho použitia.
+overiteľných krokov a konkrétneho použitia.  
