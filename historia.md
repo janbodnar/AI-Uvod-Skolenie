@@ -11,21 +11,6 @@ keď technológia nedokázala splniť sľuby a financovanie výskumu kleslo.
 Dnešný pokrok stojí najmä na kombinácii kvalitných dát, výkonného hardvéru,  
 pokročilých algoritmov a rozsiahleho inžinierskeho zázemia.  
 
-## Obsah  
-
-- [Rané základy](#rané-základy)  
-- [Dartmouthská konferencia](#dartmouthská-konferencia-1956)  
-- [Symbolická AI a prvé systémy](#symbolická-ai-a-prvé-systémy)  
-- [AI zimy](#ai-zimy)  
-- [Návrat strojového učenia](#návrat-strojového-učenia)  
-- [Hlboké učenie a moderná AI](#hlboké-učenie-a-moderná-ai)  
-- [Veľké jazykové modely](#veľké-jazykové-modely)  
-- [AI a vízie sci-fi](#ai-a-vízie-sci-fi)  
-- [Výzvy a príležitosti](#výzvy-a-príležitosti)  
-- [Otázky na diskusiu](#otázky-na-diskusiu)  
-- [Odporúčané zdroje](#odporúčané-zdroje)  
-
-
 ## Rané základy  
 
 Korene AI siahajú k formálnej logike, teórii pravdepodobnosti a teórii  
