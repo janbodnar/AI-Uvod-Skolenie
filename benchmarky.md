@@ -1043,7 +1043,6 @@ skupiny odborníkov a spôsobom výberu otázok.
 
 ## Zhrnutie kapitoly  
 
-```  
 🔹 Benchmarky sú štandardizované testy na meranie schopností LLM modelov  
 🔹 Merajú znalosti, uvažovanie, kódovanie, pravdivosť a konverzačné schopnosti  
 🔹 Najznámejšie: MMLU, HELM, BIG-bench, MT-Bench, HumanEval, GSM8K, TruthfulQA  
