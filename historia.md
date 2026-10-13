@@ -106,7 +106,7 @@ USA) v roku 1956. Organizátormi boli John McCarthy, Marvin Minsky,
 Nathaniel Rochester a Claude Shannon. V návrhu projektu z roku 1955 použili  
 pomenovanie *artificial intelligence*, ktoré sa následne rozšírilo.  
 
-![Dartmouthská konferencia](data/darthmouth.png)  
+![Dartmouthská konferencia](data/dartmouth.png)  
 
 Návrh vychádzal z odvážnej hypotézy, že aspekty učenia a inteligencie možno  
 opísať dostatočne presne na to, aby ich stroj dokázal simulovať. Táto  
