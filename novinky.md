@@ -256,6 +256,51 @@ OpenAI, Oracle, xAI) sa zaviazalo financovať vylepšenia siete (iniciatíva
 „Ratepayer Protection Pledge"). Energia sa tak začína javiť ako  
 limitujúci faktor rastu AI, nie čipy.  
   
+## 💼 AI a zamestnanosť: masové straty práce sa zatiaľ nepotvrdili  
+  
+Obavy z toho, že AI začne masovo nahrádzať ľudí, sú veľké (spomína ich aj  
+Sandersov odhad takmer 100 miliónov ohrozených miest v USA). Namerané dáta ich  
+však zatiaľ nepotvrdzujú. Predpovede o miliónoch strát sú scenáre, nie  
+štatistika.  
+  
+- **Európska centrálna banka (4. marec 2026)** – blog ekonómov Laury Lebastard a  
+  Davida Sondermanna vychádza z prieskumu SAFE z roku 2025 medzi približne 5 000  
+  firmami v eurozóne. ECB porovnala firmy, ktoré AI používajú alebo do nej  
+  investujú, s tými, ktoré nie. Medzi skupinami nenašla významný rozdiel v  
+  tvorbe ani rušení pracovných miest. Firmy, ktoré AI využívajú  
+  najintenzívnejšie, mali dokonca približne o 4 % vyššiu pravdepodobnosť, že  
+  budú prijímať ľudí. Podľa autorov investície do AI a jej intenzívne používanie  
+  zatiaľ pracovné miesta nenahrádzajú.  
+- **Výhrady ECB** – len asi 15 % firiem používajúcich AI uvádza ako dôvod  
+  zníženie nákladov na prácu. Firmy, ktoré AI nasadzujú práve na úsporu  
+  nákladov, prijímali menej ľudí a viac prepúšťali. Pozitívny efekt ťahali najmä  
+  menšie firmy. ECB zároveň upozorňuje, že AI zatiaľ významne nezmenila výrobné  
+  procesy a dlhodobý dopad na zamestnanosť zostáva nejasný.  
+- **Yale Budget Lab (aktualizované 15. septembra 2026)** – priebežne sleduje  
+  americký trh práce a porovnáva povolania podľa miery vystavenia AI. Ani po  
+  zahrnutí dát za august 2026 nenašiel jasný dôkaz narušenia trhu práce:  
+  štruktúra povolaní sa nemení spôsobom, ktorý by zjavne súvisel s nástupom AI,  
+  a miera používania AI nesúvisí so zmenami zamestnanosti ani nezamestnanosti.  
+- **Prepúšťanie a „AI washing“** – podľa správ, ktoré vychádzajú z údajov firmy  
+  Challenger, Gray & Christmas, americké firmy uviedli AI ako dôvod približne  
+  120 000 oznámených prepúšťaní od januára do septembra 2026 (asi 21 % všetkých  
+  oznámených). Ide však o vyhlásenia firiem, nie o overené dôsledky. Podľa správ  
+  Sam Altman v tejto súvislosti hovoril o „AI washingu“, teda o zdôvodňovaní  
+  prepúšťania umelou inteligenciou, aj keď by k nemu došlo tak či tak (napríklad  
+  po predchádzajúcom nadmernom nabraní zamestnancov).  
+- **Kde sa môže prejavovať skôr** – pri začiatočníkoch. Podľa sprostredkovaných  
+  zhrnutí štúdie Stanfordu klesla relatívna zamestnanosť 22- až 25-ročných v  
+  povolaniach vystavených AI o 13 až 16 %. Dopad sa podľa autorov prejavuje  
+  najmä slabším prijímaním nových ľudí, nie prepúšťaním. Aj preto sa hovorí o  
+  „stlačení“ vstupných pozícií.  
+  
+**Čo z toho vyplýva:** zatiaľ sa nepotvrdilo, že by AI masovo brala ľuďom prácu,  
+ale slovo „zatiaľ“ je dôležité. Údaje sú súhrnné, AI sa v praxi len začína  
+nasadzovať (viď osobní agenti vyššie) a prvé stopy sú pri vstupných pozíciách a  
+vybraných rolách. Rozhoduje aj to, či firmy AI použijú na rast, alebo na  
+šetrenie nákladov. Rovnako opatrne treba čítať aj vyhlásenia firiem, ktoré  
+prepúšťanie vysvetľujú AI.  
+  
 ## 🏛️ Regulácia v USA  
   
 - **GUARD Act (senátori Hawley a Blumenthal)** – bipartizánny návrh na  
