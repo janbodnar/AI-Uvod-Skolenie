@@ -25,7 +25,14 @@ aby ste získali čo najpresnejšie, najužitočnejšie a najbezpečnejšie odpo
 | **Bezpečnosť a etika** | Jasné pravidlá znižujú riziko nevhodných alebo skreslených výstupov | „Odpovedz neutrálne a bez stereotypov“ |
 
 > Prompt engineering nie je „hackovanie“ systému. Je to praktická digitálna  
-> gramotnosť, podobne ako schopnosť efektívne vyhľadávať informácie na webe.  
+> gramotnosť, podobne ako schopnosť efektívne vyhľadávať informácie na webe.
+
+```
+Nájdi mi najbližšie odchody 70ky v Bratislave zo zastávky Vlčie Hrdlo.
+```
+
+Prompt nie je dostatočne presný. Koľko odchodov a ktorým smerom?
+
 
 ### Prompt engineering vs. context engineering  
 
