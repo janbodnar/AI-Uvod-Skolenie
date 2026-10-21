@@ -14,7 +14,7 @@ Klasický príklad: nechceme programátorovi vysvetľovať, ako vyzerá mačka n
 fotke. Ukážeme systému tisíce fotiek označených ako mačka alebo nie mačka a  
 necháme ho, aby si rozdiely našiel sám.  
 
-![Strojové učenie](strojove-ucenie.jpg)
+![Strojové učenie](data/strojove-ucenie.jpg)
 
 ## 2. Klasické programovanie vs. strojové učenie
 
