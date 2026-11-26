@@ -115,8 +115,4 @@ nevídanej kvalite.
   **OpenAI**. Bol jedným z kľúčových architektov modelov GPT  
   a spoločne s Hintonom pracoval aj na prelomovom AlexNete.  
 
----
 
-Chceli by ste do dokumentu doplniť aj kapitolu o histórii  
-samotných „zím AI“ alebo podrobnosti o fungovaní architektúry  
-Transformer?  
