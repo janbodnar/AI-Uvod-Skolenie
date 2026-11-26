@@ -2,7 +2,7 @@
 
 AI Úvod - školenie
 
-
+Ján Bodnár - vyštudované financie - školím Javu, Python a AI
 
 ## Harmonogram
 
