@@ -13,6 +13,11 @@ AI Úvod - školenie
 
 
 
+
+
+
+## OpenAI example
+
 ```python
 import os
 
