@@ -1,5 +1,15 @@
 # AI-Uvod-Skolenie
+
 AI Úvod - školenie
+
+
+
+## Harmonogram
+
+- 8.00 - 14.00
+- 9.30 krátka prestávka
+- 11.00 Obedná prestávka
+
 
 
 
