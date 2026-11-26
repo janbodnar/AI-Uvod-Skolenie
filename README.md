@@ -8,7 +8,7 @@ AI Úvod - školenie
 
 - 8.00 - 14.00
 - 9.30 krátka prestávka
-- 11.00 Obedná prestávka
+- 11.00 - 12.00 Obedná prestávka
 
 
 
